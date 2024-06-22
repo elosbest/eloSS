@@ -797,4 +797,5 @@ echo.
 echo.
 timeout /t 2 >nul
 
+start "" "SSELO.bat"
 exit
